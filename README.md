@@ -1,5 +1,5 @@
 # graduation-project
-This is my graduation poject :)
+This is my graduation work
 
 These scripts do the following:
 
