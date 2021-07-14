@@ -4,9 +4,9 @@ My graduation work is dedicated to the topic "Architecture of the intelligent sy
 
 These scripts do the following:
 
-1. Get games info from Steam (getGamesInfo)
-2. Get reviews from Steam (getReviews)
-3. Get IGDB ratings
+1. Get games info from Steam (getGamesInfo.ipynb)
+2. Get reviews from Steam (getReviews.ipynb)
+3. Get IGDB ratings (IGDB.ipynb)
 4. Build an NLP model for review categorization
 5. Provide words frequency analysis
 
