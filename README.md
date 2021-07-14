@@ -1,5 +1,6 @@
-# graduation-project
-This is my graduation work
+# graduation-work
+My graduation work is dedicated to the topic "Architecture of the intelligent system of acquisition and retention evaluation in video games industry". It has two parts. The first part consists of Beautiful Soup based web scraper of game reviews on the Steam website (some data is also extracted through the API), the second part builds SpaCy classification model and provides words frequency analysis. The data is processed in pandas data frame structures.
+
 
 These scripts do the following:
 
@@ -9,4 +10,3 @@ These scripts do the following:
 4. Build an NLP model for review categorization
 5. Provide words frequency analysis
 
-Целью было определить, какие детали геймплея отталкивают игроков (и снижают удержание), основываясь на негативных отзывах на многопользовательские игры в Steam. Также собирала оценки из IGDB API. Для обработки данных, табличного представления и экспорта/импорта CSV-файлов использовались функции библиотеки Pandas, для обработки естественного языка — SpaCy.
